@@ -15,7 +15,7 @@ Run ``python demo.py`` in terminal to see it train, then predict.
 
 ##Challenge
 
-The challenge for this video is to create a 3 layer feedforward neural network using only numpy as your dependency. By doing this, you'll understand exactly how backpropagation works and develop an intuitive understanding of neural networks, which will be useful for more the more complex nets we build in the future. Backpropagation involves taking recursively taking derivatives, but in our 1 layer demo there was no recursion. In this challenge, there will be. Use a small binary dataset, you can define one programmatically like in this example.
+The challenge for this video is to create a 3 layer feedforward neural network using only numpy as your dependency. By doing this, you'll understand exactly how backpropagation works and develop an intuitive understanding of neural networks, which will be useful for more the more complex nets we build in the future. Backpropagation usually involves recursively taking derivatives, but in our 1 layer demo there was no recursion so was a trivial case of backpropagation. In this challenge, there will be. Use a small binary dataset, you can define one programmatically like in this example.
 
 **Bonus -- use a larger, more interesting dataset**
 
